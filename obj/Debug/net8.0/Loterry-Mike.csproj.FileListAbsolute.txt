@@ -1,0 +1,15 @@
+/workspaces/Loterry-Mike/bin/Debug/net8.0/Loterry-Mike
+/workspaces/Loterry-Mike/bin/Debug/net8.0/Loterry-Mike.deps.json
+/workspaces/Loterry-Mike/bin/Debug/net8.0/Loterry-Mike.runtimeconfig.json
+/workspaces/Loterry-Mike/bin/Debug/net8.0/Loterry-Mike.dll
+/workspaces/Loterry-Mike/bin/Debug/net8.0/Loterry-Mike.pdb
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.AssemblyInfoInputs.cache
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.AssemblyInfo.cs
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.csproj.CoreCompileInputs.cache
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.sourcelink.json
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.dll
+/workspaces/Loterry-Mike/obj/Debug/net8.0/refint/Loterry-Mike.dll
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.pdb
+/workspaces/Loterry-Mike/obj/Debug/net8.0/Loterry-Mike.genruntimeconfig.cache
+/workspaces/Loterry-Mike/obj/Debug/net8.0/ref/Loterry-Mike.dll
