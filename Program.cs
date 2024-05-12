@@ -4,9 +4,11 @@ class Lottery
 {
     static void Main(string[] arg)
     {
+        
         int limit = 4;  ////control the limits of my lottery 
         int low = 1;
         int high = 20;
+        
 
         //// print the User Number 
         int[] UserNumbers = UserNumber(limit);
@@ -96,7 +98,7 @@ class Lottery
         {
             if (!int.TryParse(numbers[i], out UserNumbers[i]) || UserNumbers[i] < 1 || UserNumbers[i] > 20)
             {
-                Console.WriteLine("Bro !! I told you, just numbers between 1 to 20  ");
+                Console.WriteLine("Bro !! I told you, just 5 numbers between 1 to 20  ");
                 Console.WriteLine("                                                ");
                 return UserNumber(limit);
             }

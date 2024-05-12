@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loterry-Mike")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08182b3f39069e2b5dc6c7a201926398457df9c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+378034cc0278c7f0fcc66638b0816a1a9726644e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loterry-Mike")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loterry-Mike")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
